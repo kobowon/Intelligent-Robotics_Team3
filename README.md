@@ -11,3 +11,8 @@ The project has three points of view.
 
 
 The source code consists of two folders. The 3by3 folder contains the code for the job shop scheduling problem with three machines and three jobs. The 5by4 folder contains the code for the problem with five machines and four jobs.
+
+Thanks for
+Base code implementation : Ji Ung Park
+3x3 code implementation : Bowon Ko
+5x4 code implementation : Dae Gweon KO
