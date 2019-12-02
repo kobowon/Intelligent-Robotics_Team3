@@ -14,8 +14,8 @@ The source code consists of two folders. The 3by3 folder contains the code for t
 
 Thanks for
 
-Base code implementation : Ji Ung Park
+<b>Base code implementation : Ji Ung Park</b>
 
-3x3 code implementation : Bowon Ko
+<b>3x3 code implementation : Bowon Ko</b>
 
-5x4 code implementation : Dae Gweon KO
+<b>5x4 code implementation : Dae Gweon KO</b>
